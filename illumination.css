@@ -1,0 +1,7 @@
+.b-block_list li[data-value *= "Erotica"] {
+  color: #ff69b4;
+}
+
+.b-block_list li[data-value *= "Hentai"] {
+  color: #ff69b4;
+}
